@@ -1,0 +1,12 @@
+*.mat
+*.pdf
+*.m~
+*.txt
+*.png
+!*check.png
+!*cancel.png
+*.eps
+*.fig
+*.wav
+*.tdf
+.DS_Store
